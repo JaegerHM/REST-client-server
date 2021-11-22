@@ -1,0 +1,305 @@
+2021-07-16 11:22:22.2182 | TRACE | WebAPIClient.Program | Program started
+2021-07-16 11:22:22.2897 | TRACE | WebAPIClient.Program | File created/checked
+2021-07-16 11:22:22.2897 | TRACE | WebAPIClient.Program | File size in kbytes: 5120
+2021-07-16 11:22:23.1309 | TRACE | WebAPIClient.Program | File added
+2021-07-16 11:22:23.4088 | TRACE | WebAPIClient.Program | File received for the 1 time
+2021-07-16 11:22:23.4088 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.27
+2021-07-16 11:22:23.4088 | TRACE | WebAPIClient.Program | Average speed: 18501,46 Kb/sec; 18,07Mb/sec
+2021-07-16 11:22:23.5054 | TRACE | WebAPIClient.Program | File received for the 2 time
+2021-07-16 11:22:23.5054 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.09
+2021-07-16 11:22:23.5054 | TRACE | WebAPIClient.Program | Average speed: 55350,93 Kb/sec; 54,05Mb/sec
+2021-07-16 11:22:23.5870 | TRACE | WebAPIClient.Program | File received for the 3 time
+2021-07-16 11:22:23.5870 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:23.5870 | TRACE | WebAPIClient.Program | Average speed: 64748,66 Kb/sec; 63,23Mb/sec
+2021-07-16 11:22:23.6704 | TRACE | WebAPIClient.Program | File received for the 4 time
+2021-07-16 11:22:23.6704 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.08
+2021-07-16 11:22:23.6704 | TRACE | WebAPIClient.Program | Average speed: 62978,02 Kb/sec; 61,5Mb/sec
+2021-07-16 11:22:23.8712 | TRACE | WebAPIClient.Program | File received for the 5 time
+2021-07-16 11:22:23.8712 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.19
+2021-07-16 11:22:23.8712 | TRACE | WebAPIClient.Program | Average speed: 25749,14 Kb/sec; 25,15Mb/sec
+2021-07-16 11:22:24.1635 | TRACE | WebAPIClient.Program | File received for the 6 time
+2021-07-16 11:22:24.1635 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.29
+2021-07-16 11:22:24.1650 | TRACE | WebAPIClient.Program | Average speed: 17642 Kb/sec; 17,23Mb/sec
+2021-07-16 11:22:24.2791 | TRACE | WebAPIClient.Program | File received for the 7 time
+2021-07-16 11:22:24.2791 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.11
+2021-07-16 11:22:24.2791 | TRACE | WebAPIClient.Program | Average speed: 45037,16 Kb/sec; 43,98Mb/sec
+2021-07-16 11:22:24.3581 | TRACE | WebAPIClient.Program | File received for the 8 time
+2021-07-16 11:22:24.3581 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:24.3581 | TRACE | WebAPIClient.Program | Average speed: 66513,29 Kb/sec; 64,95Mb/sec
+2021-07-16 11:22:24.4299 | TRACE | WebAPIClient.Program | File received for the 9 time
+2021-07-16 11:22:24.4307 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:24.4307 | TRACE | WebAPIClient.Program | Average speed: 73089,71 Kb/sec; 71,38Mb/sec
+2021-07-16 11:22:24.5170 | TRACE | WebAPIClient.Program | File received for the 10 time
+2021-07-16 11:22:24.5170 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.08
+2021-07-16 11:22:24.5170 | TRACE | WebAPIClient.Program | Average speed: 60118,31 Kb/sec; 58,71Mb/sec
+2021-07-16 11:22:24.5947 | TRACE | WebAPIClient.Program | File received for the 11 time
+2021-07-16 11:22:24.5947 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:24.5947 | TRACE | WebAPIClient.Program | Average speed: 67851,51 Kb/sec; 66,26Mb/sec
+2021-07-16 11:22:24.6648 | TRACE | WebAPIClient.Program | File received for the 12 time
+2021-07-16 11:22:24.6654 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:24.6654 | TRACE | WebAPIClient.Program | Average speed: 77262,84 Kb/sec; 75,45Mb/sec
+2021-07-16 11:22:24.7588 | TRACE | WebAPIClient.Program | File received for the 13 time
+2021-07-16 11:22:24.7588 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.09
+2021-07-16 11:22:24.7588 | TRACE | WebAPIClient.Program | Average speed: 56377,73 Kb/sec; 55,06Mb/sec
+2021-07-16 11:22:24.8262 | TRACE | WebAPIClient.Program | File received for the 14 time
+2021-07-16 11:22:24.8262 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:24.8262 | TRACE | WebAPIClient.Program | Average speed: 79717,13 Kb/sec; 77,85Mb/sec
+2021-07-16 11:22:24.8953 | TRACE | WebAPIClient.Program | File received for the 15 time
+2021-07-16 11:22:24.8953 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:24.8953 | TRACE | WebAPIClient.Program | Average speed: 77860,54 Kb/sec; 76,04Mb/sec
+2021-07-16 11:22:24.9707 | TRACE | WebAPIClient.Program | File received for the 16 time
+2021-07-16 11:22:24.9707 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:24.9707 | TRACE | WebAPIClient.Program | Average speed: 70899,4 Kb/sec; 69,24Mb/sec
+2021-07-16 11:22:25.0456 | TRACE | WebAPIClient.Program | File received for the 17 time
+2021-07-16 11:22:25.0456 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:25.0456 | TRACE | WebAPIClient.Program | Average speed: 72328,85 Kb/sec; 70,63Mb/sec
+2021-07-16 11:22:25.1279 | TRACE | WebAPIClient.Program | File received for the 18 time
+2021-07-16 11:22:25.1279 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:25.1279 | TRACE | WebAPIClient.Program | Average speed: 64379,6 Kb/sec; 62,87Mb/sec
+2021-07-16 11:22:25.2034 | TRACE | WebAPIClient.Program | File received for the 19 time
+2021-07-16 11:22:25.2034 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:25.2034 | TRACE | WebAPIClient.Program | Average speed: 71603,78 Kb/sec; 69,93Mb/sec
+2021-07-16 11:22:25.2730 | TRACE | WebAPIClient.Program | File received for the 20 time
+2021-07-16 11:22:25.2730 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:25.2761 | TRACE | WebAPIClient.Program | Average speed: 76910,02 Kb/sec; 75,11Mb/sec
+2021-07-16 11:22:25.3455 | TRACE | WebAPIClient.Program | File received for the 21 time
+2021-07-16 11:22:25.3455 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:25.3455 | TRACE | WebAPIClient.Program | Average speed: 74380,44 Kb/sec; 72,64Mb/sec
+2021-07-16 11:22:25.4086 | TRACE | WebAPIClient.Program | File received for the 22 time
+2021-07-16 11:22:25.4086 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.4086 | TRACE | WebAPIClient.Program | Average speed: 85696,26 Kb/sec; 83,69Mb/sec
+2021-07-16 11:22:25.4699 | TRACE | WebAPIClient.Program | File received for the 23 time
+2021-07-16 11:22:25.4699 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.4699 | TRACE | WebAPIClient.Program | Average speed: 88660,62 Kb/sec; 86,58Mb/sec
+2021-07-16 11:22:25.5326 | TRACE | WebAPIClient.Program | File received for the 24 time
+2021-07-16 11:22:25.5326 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.5326 | TRACE | WebAPIClient.Program | Average speed: 85785,14 Kb/sec; 83,77Mb/sec
+2021-07-16 11:22:25.5967 | TRACE | WebAPIClient.Program | File received for the 25 time
+2021-07-16 11:22:25.5967 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:25.5967 | TRACE | WebAPIClient.Program | Average speed: 83581,88 Kb/sec; 81,62Mb/sec
+2021-07-16 11:22:25.6593 | TRACE | WebAPIClient.Program | File received for the 26 time
+2021-07-16 11:22:25.6593 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.6593 | TRACE | WebAPIClient.Program | Average speed: 86223,59 Kb/sec; 84,2Mb/sec
+2021-07-16 11:22:25.7179 | TRACE | WebAPIClient.Program | File received for the 27 time
+2021-07-16 11:22:25.7179 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.7179 | TRACE | WebAPIClient.Program | Average speed: 91978,8 Kb/sec; 89,82Mb/sec
+2021-07-16 11:22:25.7788 | TRACE | WebAPIClient.Program | File received for the 28 time
+2021-07-16 11:22:25.7788 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.7788 | TRACE | WebAPIClient.Program | Average speed: 89276,68 Kb/sec; 87,18Mb/sec
+2021-07-16 11:22:25.8399 | TRACE | WebAPIClient.Program | File received for the 29 time
+2021-07-16 11:22:25.8399 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.8399 | TRACE | WebAPIClient.Program | Average speed: 88076,02 Kb/sec; 86,01Mb/sec
+2021-07-16 11:22:25.9018 | TRACE | WebAPIClient.Program | File received for the 30 time
+2021-07-16 11:22:25.9018 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:25.9018 | TRACE | WebAPIClient.Program | Average speed: 89716,59 Kb/sec; 87,61Mb/sec
+2021-07-16 11:22:25.9849 | TRACE | WebAPIClient.Program | File received for the 31 time
+2021-07-16 11:22:25.9849 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.07
+2021-07-16 11:22:25.9849 | TRACE | WebAPIClient.Program | Average speed: 64111,88 Kb/sec; 62,61Mb/sec
+2021-07-16 11:22:26.0441 | TRACE | WebAPIClient.Program | File received for the 32 time
+2021-07-16 11:22:26.0441 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.0441 | TRACE | WebAPIClient.Program | Average speed: 91608,03 Kb/sec; 89,46Mb/sec
+2021-07-16 11:22:26.0984 | TRACE | WebAPIClient.Program | File received for the 33 time
+2021-07-16 11:22:26.0984 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.0984 | TRACE | WebAPIClient.Program | Average speed: 99110,14 Kb/sec; 96,79Mb/sec
+2021-07-16 11:22:26.1553 | TRACE | WebAPIClient.Program | File received for the 34 time
+2021-07-16 11:22:26.1553 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.1553 | TRACE | WebAPIClient.Program | Average speed: 95062,68 Kb/sec; 92,83Mb/sec
+2021-07-16 11:22:26.2134 | TRACE | WebAPIClient.Program | File received for the 35 time
+2021-07-16 11:22:26.2134 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.2134 | TRACE | WebAPIClient.Program | Average speed: 93294,8 Kb/sec; 91,11Mb/sec
+2021-07-16 11:22:26.2725 | TRACE | WebAPIClient.Program | File received for the 36 time
+2021-07-16 11:22:26.2725 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.2746 | TRACE | WebAPIClient.Program | Average speed: 91338,05 Kb/sec; 89,2Mb/sec
+2021-07-16 11:22:26.3673 | TRACE | WebAPIClient.Program | File received for the 37 time
+2021-07-16 11:22:26.3673 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.09
+2021-07-16 11:22:26.3698 | TRACE | WebAPIClient.Program | Average speed: 55696,37 Kb/sec; 54,39Mb/sec
+2021-07-16 11:22:26.4166 | TRACE | WebAPIClient.Program | File received for the 38 time
+2021-07-16 11:22:26.4166 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.4166 | TRACE | WebAPIClient.Program | Average speed: 111392,98 Kb/sec; 108,78Mb/sec
+2021-07-16 11:22:26.4677 | TRACE | WebAPIClient.Program | File received for the 39 time
+2021-07-16 11:22:26.4677 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.4677 | TRACE | WebAPIClient.Program | Average speed: 108067,72 Kb/sec; 105,53Mb/sec
+2021-07-16 11:22:26.5200 | TRACE | WebAPIClient.Program | File received for the 40 time
+2021-07-16 11:22:26.5200 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.5200 | TRACE | WebAPIClient.Program | Average speed: 105661,78 Kb/sec; 103,19Mb/sec
+2021-07-16 11:22:26.5715 | TRACE | WebAPIClient.Program | File received for the 41 time
+2021-07-16 11:22:26.5715 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.5715 | TRACE | WebAPIClient.Program | Average speed: 105081,68 Kb/sec; 102,62Mb/sec
+2021-07-16 11:22:26.6264 | TRACE | WebAPIClient.Program | File received for the 42 time
+2021-07-16 11:22:26.6264 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.6264 | TRACE | WebAPIClient.Program | Average speed: 98506,81 Kb/sec; 96,2Mb/sec
+2021-07-16 11:22:26.6832 | TRACE | WebAPIClient.Program | File received for the 43 time
+2021-07-16 11:22:26.6832 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.6832 | TRACE | WebAPIClient.Program | Average speed: 93876,05 Kb/sec; 91,68Mb/sec
+2021-07-16 11:22:26.7392 | TRACE | WebAPIClient.Program | File received for the 44 time
+2021-07-16 11:22:26.7392 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.7392 | TRACE | WebAPIClient.Program | Average speed: 95694,14 Kb/sec; 93,45Mb/sec
+2021-07-16 11:22:26.7907 | TRACE | WebAPIClient.Program | File received for the 45 time
+2021-07-16 11:22:26.7907 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.7907 | TRACE | WebAPIClient.Program | Average speed: 104533,53 Kb/sec; 102,08Mb/sec
+2021-07-16 11:22:26.8400 | TRACE | WebAPIClient.Program | File received for the 46 time
+2021-07-16 11:22:26.8400 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.8400 | TRACE | WebAPIClient.Program | Average speed: 113091,19 Kb/sec; 110,44Mb/sec
+2021-07-16 11:22:26.8896 | TRACE | WebAPIClient.Program | File received for the 47 time
+2021-07-16 11:22:26.8896 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.8896 | TRACE | WebAPIClient.Program | Average speed: 110571,69 Kb/sec; 107,98Mb/sec
+2021-07-16 11:22:26.9393 | TRACE | WebAPIClient.Program | File received for the 48 time
+2021-07-16 11:22:26.9393 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:26.9393 | TRACE | WebAPIClient.Program | Average speed: 109695,64 Kb/sec; 107,12Mb/sec
+2021-07-16 11:22:26.9933 | TRACE | WebAPIClient.Program | File received for the 49 time
+2021-07-16 11:22:26.9933 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:26.9933 | TRACE | WebAPIClient.Program | Average speed: 100194,91 Kb/sec; 97,85Mb/sec
+2021-07-16 11:22:27.0398 | TRACE | WebAPIClient.Program | File received for the 50 time
+2021-07-16 11:22:27.0398 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.0398 | TRACE | WebAPIClient.Program | Average speed: 117620,3 Kb/sec; 114,86Mb/sec
+2021-07-16 11:22:27.0952 | TRACE | WebAPIClient.Program | File received for the 51 time
+2021-07-16 11:22:27.0952 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:27.0952 | TRACE | WebAPIClient.Program | Average speed: 97662,77 Kb/sec; 95,37Mb/sec
+2021-07-16 11:22:27.1464 | TRACE | WebAPIClient.Program | File received for the 52 time
+2021-07-16 11:22:27.1464 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.1464 | TRACE | WebAPIClient.Program | Average speed: 104373,71 Kb/sec; 101,93Mb/sec
+2021-07-16 11:22:27.1978 | TRACE | WebAPIClient.Program | File received for the 53 time
+2021-07-16 11:22:27.1978 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.1978 | TRACE | WebAPIClient.Program | Average speed: 104220,52 Kb/sec; 101,78Mb/sec
+2021-07-16 11:22:27.2459 | TRACE | WebAPIClient.Program | File received for the 54 time
+2021-07-16 11:22:27.2459 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.2459 | TRACE | WebAPIClient.Program | Average speed: 112701,85 Kb/sec; 110,06Mb/sec
+2021-07-16 11:22:27.3003 | TRACE | WebAPIClient.Program | File received for the 55 time
+2021-07-16 11:22:27.3003 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:27.3003 | TRACE | WebAPIClient.Program | Average speed: 98453,59 Kb/sec; 96,15Mb/sec
+2021-07-16 11:22:27.3475 | TRACE | WebAPIClient.Program | File received for the 56 time
+2021-07-16 11:22:27.3475 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.3475 | TRACE | WebAPIClient.Program | Average speed: 115137,94 Kb/sec; 112,44Mb/sec
+2021-07-16 11:22:27.4074 | TRACE | WebAPIClient.Program | File received for the 57 time
+2021-07-16 11:22:27.4074 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:27.4074 | TRACE | WebAPIClient.Program | Average speed: 88963,02 Kb/sec; 86,88Mb/sec
+2021-07-16 11:22:27.4576 | TRACE | WebAPIClient.Program | File received for the 58 time
+2021-07-16 11:22:27.4576 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.4576 | TRACE | WebAPIClient.Program | Average speed: 110039,85 Kb/sec; 107,46Mb/sec
+2021-07-16 11:22:27.5089 | TRACE | WebAPIClient.Program | File received for the 59 time
+2021-07-16 11:22:27.5089 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.5089 | TRACE | WebAPIClient.Program | Average speed: 105690,79 Kb/sec; 103,21Mb/sec
+2021-07-16 11:22:27.5560 | TRACE | WebAPIClient.Program | File received for the 60 time
+2021-07-16 11:22:27.5560 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.5560 | TRACE | WebAPIClient.Program | Average speed: 115714,58 Kb/sec; 113Mb/sec
+2021-07-16 11:22:27.6085 | TRACE | WebAPIClient.Program | File received for the 61 time
+2021-07-16 11:22:27.6085 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.6085 | TRACE | WebAPIClient.Program | Average speed: 103463,61 Kb/sec; 101,04Mb/sec
+2021-07-16 11:22:27.6558 | TRACE | WebAPIClient.Program | File received for the 62 time
+2021-07-16 11:22:27.6558 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.6558 | TRACE | WebAPIClient.Program | Average speed: 115611,9 Kb/sec; 112,9Mb/sec
+2021-07-16 11:22:27.7092 | TRACE | WebAPIClient.Program | File received for the 63 time
+2021-07-16 11:22:27.7092 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:27.7092 | TRACE | WebAPIClient.Program | Average speed: 101155,98 Kb/sec; 98,79Mb/sec
+2021-07-16 11:22:27.7602 | TRACE | WebAPIClient.Program | File received for the 64 time
+2021-07-16 11:22:27.7602 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.7602 | TRACE | WebAPIClient.Program | Average speed: 105299,74 Kb/sec; 102,83Mb/sec
+2021-07-16 11:22:27.8092 | TRACE | WebAPIClient.Program | File received for the 65 time
+2021-07-16 11:22:27.8092 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.8092 | TRACE | WebAPIClient.Program | Average speed: 111568,72 Kb/sec; 108,95Mb/sec
+2021-07-16 11:22:27.8584 | TRACE | WebAPIClient.Program | File received for the 66 time
+2021-07-16 11:22:27.8584 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.8584 | TRACE | WebAPIClient.Program | Average speed: 113519,71 Kb/sec; 110,86Mb/sec
+2021-07-16 11:22:27.9053 | TRACE | WebAPIClient.Program | File received for the 67 time
+2021-07-16 11:22:27.9053 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.9053 | TRACE | WebAPIClient.Program | Average speed: 116794,18 Kb/sec; 114,06Mb/sec
+2021-07-16 11:22:27.9569 | TRACE | WebAPIClient.Program | File received for the 68 time
+2021-07-16 11:22:27.9569 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:27.9569 | TRACE | WebAPIClient.Program | Average speed: 104698,55 Kb/sec; 102,24Mb/sec
+2021-07-16 11:22:28.0110 | TRACE | WebAPIClient.Program | File received for the 69 time
+2021-07-16 11:22:28.0110 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:28.0110 | TRACE | WebAPIClient.Program | Average speed: 98315,77 Kb/sec; 96,01Mb/sec
+2021-07-16 11:22:28.0622 | TRACE | WebAPIClient.Program | File received for the 70 time
+2021-07-16 11:22:28.0622 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.0622 | TRACE | WebAPIClient.Program | Average speed: 106868,6 Kb/sec; 104,36Mb/sec
+2021-07-16 11:22:28.1128 | TRACE | WebAPIClient.Program | File received for the 71 time
+2021-07-16 11:22:28.1128 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.1128 | TRACE | WebAPIClient.Program | Average speed: 106655,78 Kb/sec; 104,16Mb/sec
+2021-07-16 11:22:28.1636 | TRACE | WebAPIClient.Program | File received for the 72 time
+2021-07-16 11:22:28.1636 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.1655 | TRACE | WebAPIClient.Program | Average speed: 109283,55 Kb/sec; 106,72Mb/sec
+2021-07-16 11:22:28.2138 | TRACE | WebAPIClient.Program | File received for the 73 time
+2021-07-16 11:22:28.2138 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.2138 | TRACE | WebAPIClient.Program | Average speed: 106882,66 Kb/sec; 104,38Mb/sec
+2021-07-16 11:22:28.2645 | TRACE | WebAPIClient.Program | File received for the 74 time
+2021-07-16 11:22:28.2645 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.2645 | TRACE | WebAPIClient.Program | Average speed: 106522,86 Kb/sec; 104,03Mb/sec
+2021-07-16 11:22:28.3347 | TRACE | WebAPIClient.Program | File received for the 75 time
+2021-07-16 11:22:28.3347 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.06
+2021-07-16 11:22:28.3369 | TRACE | WebAPIClient.Program | Average speed: 76506,64 Kb/sec; 74,71Mb/sec
+2021-07-16 11:22:28.3820 | TRACE | WebAPIClient.Program | File received for the 76 time
+2021-07-16 11:22:28.3820 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.3841 | TRACE | WebAPIClient.Program | Average speed: 114765,27 Kb/sec; 112,08Mb/sec
+2021-07-16 11:22:28.4304 | TRACE | WebAPIClient.Program | File received for the 77 time
+2021-07-16 11:22:28.4314 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.4314 | TRACE | WebAPIClient.Program | Average speed: 112410,12 Kb/sec; 109,78Mb/sec
+2021-07-16 11:22:28.4796 | TRACE | WebAPIClient.Program | File received for the 78 time
+2021-07-16 11:22:28.4796 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.4796 | TRACE | WebAPIClient.Program | Average speed: 111077,12 Kb/sec; 108,47Mb/sec
+2021-07-16 11:22:28.5284 | TRACE | WebAPIClient.Program | File received for the 79 time
+2021-07-16 11:22:28.5284 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.5284 | TRACE | WebAPIClient.Program | Average speed: 109688,59 Kb/sec; 107,12Mb/sec
+2021-07-16 11:22:28.5790 | TRACE | WebAPIClient.Program | File received for the 80 time
+2021-07-16 11:22:28.5790 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.5790 | TRACE | WebAPIClient.Program | Average speed: 105313,82 Kb/sec; 102,85Mb/sec
+2021-07-16 11:22:28.6319 | TRACE | WebAPIClient.Program | File received for the 81 time
+2021-07-16 11:22:28.6319 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:28.6341 | TRACE | WebAPIClient.Program | Average speed: 102359,87 Kb/sec; 99,96Mb/sec
+2021-07-16 11:22:28.6816 | TRACE | WebAPIClient.Program | File received for the 82 time
+2021-07-16 11:22:28.6816 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.6816 | TRACE | WebAPIClient.Program | Average speed: 109355,91 Kb/sec; 106,79Mb/sec
+2021-07-16 11:22:28.7305 | TRACE | WebAPIClient.Program | File received for the 83 time
+2021-07-16 11:22:28.7305 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.7305 | TRACE | WebAPIClient.Program | Average speed: 111909,63 Kb/sec; 109,29Mb/sec
+2021-07-16 11:22:28.7813 | TRACE | WebAPIClient.Program | File received for the 84 time
+2021-07-16 11:22:28.7813 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.7813 | TRACE | WebAPIClient.Program | Average speed: 105678,57 Kb/sec; 103,2Mb/sec
+2021-07-16 11:22:28.8331 | TRACE | WebAPIClient.Program | File received for the 85 time
+2021-07-16 11:22:28.8331 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.8331 | TRACE | WebAPIClient.Program | Average speed: 103884,93 Kb/sec; 101,45Mb/sec
+2021-07-16 11:22:28.8813 | TRACE | WebAPIClient.Program | File received for the 86 time
+2021-07-16 11:22:28.8813 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.8813 | TRACE | WebAPIClient.Program | Average speed: 112440,73 Kb/sec; 109,81Mb/sec
+2021-07-16 11:22:28.9295 | TRACE | WebAPIClient.Program | File received for the 87 time
+2021-07-16 11:22:28.9295 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.9317 | TRACE | WebAPIClient.Program | Average speed: 112170,25 Kb/sec; 109,54Mb/sec
+2021-07-16 11:22:28.9793 | TRACE | WebAPIClient.Program | File received for the 88 time
+2021-07-16 11:22:28.9793 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:28.9793 | TRACE | WebAPIClient.Program | Average speed: 109367,59 Kb/sec; 106,8Mb/sec
+2021-07-16 11:22:29.0315 | TRACE | WebAPIClient.Program | File received for the 89 time
+2021-07-16 11:22:29.0315 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.0315 | TRACE | WebAPIClient.Program | Average speed: 103635,75 Kb/sec; 101,21Mb/sec
+2021-07-16 11:22:29.0833 | TRACE | WebAPIClient.Program | File received for the 90 time
+2021-07-16 11:22:29.0833 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.0833 | TRACE | WebAPIClient.Program | Average speed: 105785,78 Kb/sec; 103,31Mb/sec
+2021-07-16 11:22:29.1361 | TRACE | WebAPIClient.Program | File received for the 91 time
+2021-07-16 11:22:29.1361 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:29.1361 | TRACE | WebAPIClient.Program | Average speed: 101501,91 Kb/sec; 99,12Mb/sec
+2021-07-16 11:22:29.1858 | TRACE | WebAPIClient.Program | File received for the 92 time
+2021-07-16 11:22:29.1858 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.1858 | TRACE | WebAPIClient.Program | Average speed: 108633,15 Kb/sec; 106,09Mb/sec
+2021-07-16 11:22:29.2429 | TRACE | WebAPIClient.Program | File received for the 93 time
+2021-07-16 11:22:29.2429 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:29.2429 | TRACE | WebAPIClient.Program | Average speed: 94578,37 Kb/sec; 92,36Mb/sec
+2021-07-16 11:22:29.2954 | TRACE | WebAPIClient.Program | File received for the 94 time
+2021-07-16 11:22:29.2954 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.2954 | TRACE | WebAPIClient.Program | Average speed: 102564,31 Kb/sec; 100,16Mb/sec
+2021-07-16 11:22:29.3454 | TRACE | WebAPIClient.Program | File received for the 95 time
+2021-07-16 11:22:29.3454 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.3454 | TRACE | WebAPIClient.Program | Average speed: 107957,66 Kb/sec; 105,43Mb/sec
+2021-07-16 11:22:29.3994 | TRACE | WebAPIClient.Program | File received for the 96 time
+2021-07-16 11:22:29.3998 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.05
+2021-07-16 11:22:29.3998 | TRACE | WebAPIClient.Program | Average speed: 99757,81 Kb/sec; 97,42Mb/sec
+2021-07-16 11:22:29.4500 | TRACE | WebAPIClient.Program | File received for the 97 time
+2021-07-16 11:22:29.4500 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.4500 | TRACE | WebAPIClient.Program | Average speed: 108267,67 Kb/sec; 105,73Mb/sec
+2021-07-16 11:22:29.5018 | TRACE | WebAPIClient.Program | File received for the 98 time
+2021-07-16 11:22:29.5018 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.5018 | TRACE | WebAPIClient.Program | Average speed: 104271,89 Kb/sec; 101,83Mb/sec
+2021-07-16 11:22:29.5498 | TRACE | WebAPIClient.Program | File received for the 99 time
+2021-07-16 11:22:29.5498 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.5498 | TRACE | WebAPIClient.Program | Average speed: 116514,31 Kb/sec; 113,78Mb/sec
+2021-07-16 11:22:29.5989 | TRACE | WebAPIClient.Program | File received for the 100 time
+2021-07-16 11:22:29.5989 | TRACE | WebAPIClient.Program | RunTime: 00:00:00.04
+2021-07-16 11:22:29.5989 | TRACE | WebAPIClient.Program | Average speed: 111226,97 Kb/sec; 108,62Mb/sec
+2021-07-16 11:22:29.5989 | TRACE | WebAPIClient.Program | Program ended
